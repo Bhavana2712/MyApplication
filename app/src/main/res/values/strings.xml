@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_id">Please Enter ID No.</string>
+    <string name="string_submit">Submit</string>
+    <string name="textview">TextView</string>
+    <string name="dob">Date of Birth: </string>
+    <string name="gender">Gender: </string>
+    <string name="nationality">Nationality: </string>
+    <string name="newline">\n</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="sacitizen">SA Citizen</string>
+    <string name="permanentresidence">Permanent Resident</string>
+</resources>
